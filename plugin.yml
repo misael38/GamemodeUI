@@ -1,0 +1,8 @@
+name: GamemodeUI
+main: GamemodeUI\Main
+author: Unknown
+version: 1.4
+api: [3.0.0]
+commands:
+ gmui:
+  description: GamemodeUI main command! 
