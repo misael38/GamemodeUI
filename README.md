@@ -11,4 +11,9 @@
  - [ ] set message no permission
  
 # How To Setup?
-1. donwload the phar 
+1. Download the latest plugin's phar [in here](poggit.pmmp.io/ci/misael38/GamemodeUI/GamemodeUI).
+2. Drop the plugin's phar into the /plugins folder in your server
+3. Restart your server so that the plugin will be enabled!
+
+# Donation
+ [click here](paypal.me/misael38) for donation 
