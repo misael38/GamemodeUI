@@ -44,7 +44,7 @@ Class Main extends PluginBase{
               break;
             case 4:
               $sender->sendMessage($this->getConfig()->get("msg-spectator"));
-              $sender->addTitle("§eSpector mode", "§fSpector mode is enable");
+              $sender->addTitle("§eSpectator mode", "§fSpector mode is enable");
               $sender->setGamemode(3);
               default:
                 return;
@@ -55,7 +55,7 @@ Class Main extends PluginBase{
           $form->addDropdown("Menu", ["Exit", "Creative", "Survival", "Adventure", "Spectator"]);
           $form->sendToPlayer($sender);
       } else {
-        $sender->sendMessage("§cYou did not operater or you don't have permission!");
+        $sender->sendMessage($this->getConfig()->get("msg-no-perm"));
       }
     }
     return true;
