@@ -8,7 +8,7 @@
  - [x] change gamemode with UI 
  - [x] custom message when changing gamemodes 
  - [ ] custom title when changing gamemodes (soon)
- - [ ] set message no permission
+ - [x] set message no permission
  
 # How To Setup?
 1. Download the latest plugin's phar [in here](poggit.pmmp.io/ci/misael38/GamemodeUI/GamemodeUI).
