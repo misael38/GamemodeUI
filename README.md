@@ -6,4 +6,5 @@
  
 # Features
  - [x] change gamemode with UI 
- - [ ] custom message when changing gamemodes (soon)
+ - [x] custom message when changing gamemodes 
+ - [ ] custom title when changing gamemodes (soon)
