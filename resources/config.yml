@@ -16,5 +16,8 @@ msg-adventure: "Changing Gamemode To Adventure"
 
 #Message when changing gamemode to spectator
 msg-spectator: "Changing Gamemode To Spectator"
+
+#Message when player didn't have perm
+msg-no-perm: "§cYou didn't have permission to use this command!"
 #
 ...
