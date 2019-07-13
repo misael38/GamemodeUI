@@ -1,6 +1,6 @@
 name: GamemodeUI
 main: GamemodeUI\Main
-author: Misael
+author: Misael38
 version: 1.0
 api: [3.0.0]
 commands:
