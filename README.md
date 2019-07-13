@@ -8,3 +8,7 @@
  - [x] change gamemode with UI 
  - [x] custom message when changing gamemodes 
  - [ ] custom title when changing gamemodes (soon)
+ - [ ] set message no permission
+ 
+# How To Setup?
+1. donwload the phar 
