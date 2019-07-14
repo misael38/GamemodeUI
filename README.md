@@ -7,7 +7,7 @@
 # Features
  - [x] change gamemode with UI 
  - [x] custom message when changing gamemodes 
- - [ ] custom title when changing gamemodes (soon)
+ - [x] title when changing gamemodes 
  - [x] set message no permission
  
 # How To Setup?
@@ -15,5 +15,8 @@
 2. Drop the plugin's phar into the /plugins folder in your server
 3. Restart your server so that the plugin will be enabled!
 
+# Youtube Video
+ [click here](https://youtu.be/z4ZzIYyYwuM) To watch the video!
+
 # Donation
- [click here](paypal.me/misael38) for donation 
+ [click here](https://www.paypal.me/misael38) for donation 
