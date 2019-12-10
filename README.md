@@ -1,4 +1,4 @@
-# Plugin Info
+# Plugin Info     [![HitCount](http://hits.dwyl.io/misael38/GamemodeUI.svg)](http://hits.dwyl.io/misael38/GamemodeUI)
  - Command /gmui
  - Permission: gmui.cmd 
  - API: 3.x.x
