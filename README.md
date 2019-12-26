@@ -1,4 +1,5 @@
-# Plugin Info     [![HitCount](http://hits.dwyl.io/misael38/GamemodeUI.svg)](http://hits.dwyl.io/misael38/GamemodeUI)
+# Plugin Info     
+[![HitCount](http://hits.dwyl.io/misael38/GamemodeUI.svg)](http://hits.dwyl.io/misael38/GamemodeUI)
  - Command /gmui
  - Permission: gmui.cmd 
  - API: 3.x.x
@@ -9,6 +10,7 @@
  - [x] custom message when changing gamemodes 
  - [x] title when changing gamemodes 
  - [x] set message no permission
+ - [x] quit message
  
 # How To Setup?
 1. Download the latest plugin's phar [in here](poggit.pmmp.io/ci/misael38/GamemodeUI/GamemodeUI).
