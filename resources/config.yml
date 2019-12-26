@@ -5,6 +5,9 @@
 #The title of the menu
 Title: "§lGamemodeUI"
 
+#Message when player quit the menu
+msg-quit: "§eClosed Gamemode Menu \n §bBy: §eMisael38"
+
 #Message when changing gamemode to creative
 msg-creative: "Changing Gamemode To Creatvie"
 
