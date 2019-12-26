@@ -26,6 +26,7 @@ Class Main extends PluginBase{
           if( !is_null($data)) {
             switch($result) {
             case 0:
+              $sender->sendMessage($this->getConfig()->get("msg-quit"));
               break;
             case 1:
               $sender->sendMessage($this->getConfig()->get("msg-creative"));
